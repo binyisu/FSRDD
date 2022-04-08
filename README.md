@@ -3,6 +3,9 @@
 # News
 [2022-4-8]: A kaggle competition platform is built, then you can submit you result in https://www.kaggle.com/competitions/cnrdd
 
+**2021 Dataset Access Instructions:**
+
+Bad conditions of the city road would cause seriously negative impact on the traffic safety, driving efficiency, and vehicle quality. Thus, road condition estimation has become an important research direction in the field of intelligent transportation. However, it is a challenging task due to various types of disturbance factors, such as differentiated road conditions and hard collection of rare road damages. We establish a china road damage detation detection named as CNRDD, which includes 4319 images with 9 categories: sickness_1, 3, 4, 5, 6, 8, 9, 11, -1. This is a **long-tail object detection task**, which is challenging and significant for Smart Transportation.
 
 The **CNRDD Datasets Access Form** is available here. 
 
