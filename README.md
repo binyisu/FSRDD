@@ -4,7 +4,7 @@
 [2022-4-8]: A kaggle competition platform is built, then you can submit you result in https://www.kaggle.com/competitions/cnrdd
 
 
-The **PVELAD-2021 Datasets Access Form** is available here. 
+The **CNRDD Datasets Access Form** is available here. 
 
 All researchers need to follow the instructions below to access the datasets.
 
